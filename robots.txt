@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://hulayang.github.io/sitemap.hulayang.gz
+Sitemap: https://hulayang.github.io/app/sitemap.hulayang.gz
+Sitemap: https://hulayang.github.io/assets/sitemap.hulayang.gz
+Sitemap: https://hulayang.github.io/css/sitemap.hulayang.gz
+Sitemap: https://hulayang.github.io/data/sitemap.hulayang.gz
+Sitemap: https://hulayang.github.io/includes/sitemap.hulayang.gz
+Sitemap: https://hulayang.github.io/item/sitemap.hulayang.gz
+Sitemap: https://hulayang.github.io/src/sitemap.hulayang.gz
